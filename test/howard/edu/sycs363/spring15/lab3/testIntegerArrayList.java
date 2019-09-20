@@ -46,7 +46,7 @@ public class testIntegerArrayList {
 		assertEquals("Should return -1", -1, tester.get(30));
 	}
 	
-	/*
+	/*My name is uchenna
 	 * contains the alternate case too
 	 */
 	@Test
